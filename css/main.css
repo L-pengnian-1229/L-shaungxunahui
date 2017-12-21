@@ -245,6 +245,64 @@ body {
 }
 /*第四页结束*/
 
+/*学员项目展示开始*/
+.swiper-wrapper .seven{
+    background: url("../img/threebg.jpg");
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+.swiper-wrapper .seven .seven-1 p{
+    position: absolute;
+    color: #fdad2f;
+    font-size: 12vw;
+    top: 0;
+    left: 26%;
+}
+.swiper-wrapper .seven .seven-1 img{
+    position: absolute;
+    top:17%;
+    left: 26%;
+    width: 48%;
+}
+.swiper-wrapper .seven .seven-2 img{
+    width: 64%;
+    height: 56%;
+    position: absolute;
+    top: 24%;
+    left: 18%;
+}
+/*第二页开始*/
+.swiper-wrapper .eight{
+    background: url("../img/threebg.jpg");
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+.swiper-wrapper .eight .eight-1 p{
+    position: absolute;
+    color: #fdad2f;
+    font-size: 12vw;
+    top: 0;
+    left: 26%;
+}
+.swiper-wrapper .eight .eight-1 img{
+    position: absolute;
+    top:17%;
+    left: 26%;
+    width: 48%;
+}
+.swiper-wrapper .eight .eight-2 img{
+    width: 62%;
+    height: 56%;
+    position: absolute;
+    top: 24%;
+    left: 18%;
+}
+/*第二页结束*/
+
+/*学员项目展示结束*/
+
 /*第五页开始*/
 .swiper-wrapper .five{
     background: url("../img/threebg.jpg");
