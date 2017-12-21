@@ -161,10 +161,11 @@ body {
 .swiper-wrapper .two .two-2{
     width: 70%;
     background-color: #272833;
-    position: absolute;
-    top: 32%;
+    /* position: absolute; */
+    /* top: 32%; */
     padding: 10px;
     border-radius: 12%;
+    margin-top: 20%;
 }
 .swiper-wrapper .two .two-2 p{
     margin: 0;
